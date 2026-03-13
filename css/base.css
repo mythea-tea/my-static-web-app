@@ -1,0 +1,61 @@
+*{
+    margin:0;
+    padding:0;
+    box-sizing:border-box;
+}
+
+html,body{
+    overflow-x:hidden;
+}
+
+img{
+    max-width:100%;
+    height:auto;
+    display:block;
+}
+
+body{
+    margin:0;
+    font-family: "Noto Serif JP", serif;
+    color:#5a4a3a;
+    background:#f5f1e8;
+}
+
+section{
+    padding:100px 20px;
+    text-align:center;
+    width:100%;
+}
+
+h1,h2,h3{
+    font-weight:500;
+}
+
+h2{
+    margin-bottom:20px;
+    font-size:32px;
+}
+
+p{
+    line-height:1.8;
+}
+
+input,textarea{
+    padding:10px;
+    border:1px solid #ccc;
+    border-radius:5px;
+}
+
+footer{
+    background:#6b4e2e;
+    color:white;
+    padding:30px;
+    text-align:center;
+    margin-top:60px;
+}
+
+.container{
+    max-width:900px;
+    margin:0 auto;
+    padding:0 20px;
+}

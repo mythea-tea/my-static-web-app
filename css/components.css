@@ -1,0 +1,46 @@
+/*ヒーローセクションボタン*/
+
+.button{
+margin-top:30px;
+padding:12px 28px;
+background:#8a6b47;
+color:white;
+text-decoration:none;
+border-radius:5px;
+
+display:block;
+max-width:260px;
+margin:10px auto;
+
+border-radius:15px;
+}
+
+.button-area{
+display:flex;
+justify-content:center;
+gap:20px;
+flex-wrap:wrap;
+margin-top:20px;
+}
+
+/*会社概要テーブル*/
+
+.company-table{
+margin:0 auto;
+border-collapse:collapse;
+}
+
+.company-table th{
+width:280px;
+text-align:right;
+padding:14px 40px 14px 0;
+color:#666;
+font-weight:400;
+}
+
+.company-table td{
+width:320px;
+text-align:left;
+}
+
+/* */
